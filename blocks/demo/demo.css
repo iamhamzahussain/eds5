@@ -1,0 +1,45 @@
+.demo-wrapper{
+    width: 80%;
+    height: 500px;
+    margin:auto;
+    margin-top: 30px;
+    display: flex;
+}
+.first{
+    width: 60%;
+    max-width: 60%;
+    padding: 1% 5%;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.DemoTitle{
+    font-family: Poppins;
+    font-size: 60px;
+    font-weight: 600;
+    margin: 0px;
+    color: #383737 ;
+}
+.DemoHeading{
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 500;
+    color: #383737;
+}
+.DemoPara{
+    color: #7a8084;
+    width: 60%;
+}
+.second{
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(131, 152, 180);
+}
+.second img{
+    position: relative;
+    width: 120%;
+    left: -10%;
+}
